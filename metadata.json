@@ -1,0 +1,7 @@
+{
+  "name": "AI STAR",
+  "description": "An AI-powered application from AI STAR that provides a chatbot to greet visitors, answer questions about our services, and assist with generating marketing content.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
